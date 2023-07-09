@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="DanhSachMonHoc" Collapsed="true">
+    <Position X="4.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>DanhSachMon.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="LopHoc">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>LopHoc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="MonHoc" Collapsed="true">
+    <Position X="0.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAIABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonHoc.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="SinhVien">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAgAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>SinhVien.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="DANHSACHMONHOC" Collapsed="true">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DanhSachMon.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LOPHOC" Collapsed="true">
+    <Position X="4.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LopHoc.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="MONHOC" Collapsed="true">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MonHoc.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="SINHVIEN" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SinhVien.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
